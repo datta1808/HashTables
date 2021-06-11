@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.bridgelabz.MyLinkedHashMapTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-06-11T10:09:59" hostname="LAPTOP-OKMRMTOT" time="0.011">
+<testsuite name="com.bridgelabz.MyLinkedHashMapTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2021-06-11T10:25:36" hostname="LAPTOP-OKMRMTOT" time="0.014">
   <properties/>
-  <testcase name="givenALargeSentenceWhenWordsAreAddedToListShouldReturnParanoidWordFrequency" classname="com.bridgelabz.MyLinkedHashMapTest" time="0.011"/>
-  <system-out><![CDATA[com.bridgelabz.MyLinkedHashMap@75ae2ae8
+  <testcase name="givenASentencewhenWordIsRemovedShouldReturnDeletedWordFrequency" classname="com.bridgelabz.MyLinkedHashMapTest" time="0.007"/>
+  <testcase name="givenALargeSentenceWhenWordsAreAddedToListShouldReturnParanoidWordFrequency" classname="com.bridgelabz.MyLinkedHashMapTest" time="0.006"/>
+  <system-out><![CDATA[com.bridgelabz.MyLinkedHashMap@775b4821
 ]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
