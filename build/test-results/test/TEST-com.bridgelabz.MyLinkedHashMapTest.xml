@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.bridgelabz.MyLinkedHashMapTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-06-11T10:09:59" hostname="LAPTOP-OKMRMTOT" time="0.011">
+  <properties/>
+  <testcase name="givenALargeSentenceWhenWordsAreAddedToListShouldReturnParanoidWordFrequency" classname="com.bridgelabz.MyLinkedHashMapTest" time="0.011"/>
+  <system-out><![CDATA[com.bridgelabz.MyLinkedHashMap@75ae2ae8
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
